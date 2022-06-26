@@ -8,7 +8,7 @@ Installing The Pygame Module:
 Open Terminal/CMD
 Type pip install pygame/ pip3 install pygame
 
-OR
+                   OR
 
 Open Terminal or CMD, then Type pip install -r <path to the game>
 Example: pip install -r c://Users/Desktop/Tic-Tac-Toe/requirements.txt
