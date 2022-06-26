@@ -1,5 +1,5 @@
 # Tic-Tac-Toe Game
-This Tic-Tac-Toe Game Is Made Using Python 3.6.5 & Pygame Module. You Can Use The Code To Make Your Own Version Of Game.
+This Tic-Tac-Toe Game is made using Python 3.6.5 & Pygame Module. You can use the code to make your own version of game.
 
 To play the game, simply double click on the Tic-Tac-Toe.exe.
 
